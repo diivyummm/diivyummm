@@ -150,7 +150,7 @@
             </h2>
             <div class="-mx-3 mt-8 lg:-mx-14">
               <img
-                src="IMG_0472~2.JPG"
+                src="https://github.com/diivyummm/diivyummm/blob/65469370323e6dc71b0395ad5dab10c116da4931/IMG_0472~2.JPG"
                 class="inline-block lg:rounded-sm"
                 alt="Divyam Kaushik photo"
               />
